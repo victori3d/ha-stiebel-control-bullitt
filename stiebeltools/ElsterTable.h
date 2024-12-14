@@ -1,4 +1,3 @@
-
 /*
  *  Copyright (C) 2023 Bastian Stahmer, based heavily on the great work of Jürg Müller, CH-5524 (see below)
  *  Copyright (C) 2014 Jürg Müller, CH-5524
